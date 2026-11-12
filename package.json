@@ -1,0 +1,29 @@
+{
+  "name": "evolo-applied-ai",
+  "version": "0.0.0-public",
+  "description": "Applied AI Engineering — Production-ready AI systems for enterprise",
+  "homepage": "https://evolo.dev",
+  "repository": "git+https://github.com/evolo/evolo-applied-ai.git",
+  "author": {
+    "name": "Evolo (Two-engineer team in Vancouver, Canada)",
+    "email": "contact@evolo.dev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "applied-ai",
+    "ai-agents",
+    "rag",
+    "computer-vision",
+    "ml-infrastructure",
+    "production-ai",
+    "vancouver",
+    "remote"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "bugs": {
+    "url": "https://github.com/evolo/evolo-applied-ai/issues",
+    "email": "contact@evolo.dev"
+  }
+}
